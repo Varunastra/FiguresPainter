@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.460,=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Polygon.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit3.cpp=C:\Users\borov\Documents\Embarcadero\Studio\Projects\BaseFigure.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.386,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Quadrate.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\borov\Documents\Embarcadero\Studio\Projects\BaseRect.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.831,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Triangle.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit3.h=C:\Users\borov\Documents\Embarcadero\Studio\Projects\BaseFigure.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.584,C:\Users\borov\Documents\Embarcadero\Studio\Projects\PoligPoints.cpp=C:\Users\borov\Documents\Embarcadero\Studio\Projects\BasePolyg.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.528,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit4.cpp=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Circle.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.163,=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.919,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Zad2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.165,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Triangle.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.964,=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,C:\Users\borov\Documents\Embarcadero\Studio\Projects\BasePolyg.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\borov\Documents\Embarcadero\Studio\Projects\main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Ellipses.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.666,=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Quadrate.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.584,C:\Users\borov\Documents\Embarcadero\Studio\Projects\PoligPoints.h=C:\Users\borov\Documents\Embarcadero\Studio\Projects\BasePolyg.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\borov\Documents\Embarcadero\Studio\Projects\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Ellipses.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\borov\Documents\Embarcadero\Studio\Projects\main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\borov\Documents\Embarcadero\Studio\Projects\BaseRect.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.386,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Quadrate.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.831,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Triangle.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Polygon.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Polygon.cpp=C:\Users\borov\Documents\Embarcadero\Studio\Projects\PoligPoints.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.745,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Zad2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.948,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Polygon.h=C:\Users\borov\Documents\Embarcadero\Studio\Projects\PoligPoints.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.528,C:\Users\borov\Documents\Embarcadero\Studio\Projects\Unit4.h=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Circle.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.498,=C:\Users\borov\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="main.cpp"/>
+    <File Path="main.cpp"/>
+    <File Path="main.dfm"/>
+    <File Path="main.h"/>
+    <File Path="BaseFigure.cpp"/>
+    <File Path="BaseFigure.cpp"/>
+    <File Path="BaseFigure.h"/>
+    <File Path="Circle.cpp"/>
+    <File Path="Circle.cpp"/>
+    <File Path="Circle.h"/>
+    <File Path="Ellipses.cpp"/>
+    <File Path="Ellipses.cpp"/>
+    <File Path="Ellipses.h"/>
+    <File Path="Zad2.cpp"/>
+    <File Path="Zad2PCH1.h"/>
+    <File Path="BaseRect.cpp"/>
+    <File Path="BaseRect.cpp"/>
+    <File Path="BaseRect.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
